@@ -1,3 +1,4 @@
+[![MasterHead](https://giphy.com/gifs/css-13FrpeVH09Zrb2)]
 <h1 align="center">Hi 👋, I'm Theofanis (but you can call me Fanis)</h1>
 <h3 align="center">A passionate Front End Developer from Greece</h3>
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' >
