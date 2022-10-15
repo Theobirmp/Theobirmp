@@ -5,7 +5,7 @@
 <ul align='left'>
   <li>I am Fanis. I am a graduate student at the Department of Informatics and Telecommunications, National and Kapodistrian University of Athens.</li>
   <li>I currently work as a Front End Developer at Threenitas.</li>
-  <li>I am a React enthusiast</li>
+  <li>I am a React enthusiast.</li>
 </ul>
 
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' >
