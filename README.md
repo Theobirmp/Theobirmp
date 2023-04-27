@@ -4,12 +4,12 @@
 <h3 align='left'>About Me</h3>
 <ul align='left'>
   <li>I am Fanis. I am a graduate student at the Department of Informatics and Telecommunications, National and Kapodistrian University of Athens.</li>
-  <li>I currently work as a Front End Developer at Threenitas.</li>
+  <li>I currently work as a React Engineer at Quintessential.</li>
   <li>I am a React enthusiast.</li>
 </ul>
 
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' >
-- 🔭 I’m currently working on **Exerice App (MERN)**
+- 🔭 I’m currently working on learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://theofanis-birmpilis.vercel.app/](https://theofanis-birmpilis.vercel.app/)
 
